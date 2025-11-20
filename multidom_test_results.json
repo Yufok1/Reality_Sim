@@ -1,0 +1,47 @@
+{
+  "test_start": "2025-11-18T06:28:47.462049",
+  "tests": {
+    "activation": [
+      {
+        "count": 4,
+        "first_generation": 7,
+        "status": "PASS"
+      }
+    ],
+    "bridge_injection": [
+      {
+        "count": 0,
+        "status": "WARN"
+      }
+    ],
+    "consciousness_metrics": {
+      "vocabulary_coherence": 0,
+      "cross_domain_integration": 0,
+      "consciousness_diversity": 0,
+      "expansion_trajectory": 0
+    },
+    "expansion_trajectory": [
+      {
+        "count": 0,
+        "status": "WARN"
+      }
+    ],
+    "referential_memory": {
+      "anchors_recorded": 0,
+      "stability_metrics": 2,
+      "selection_pressure": 2,
+      "memory_feedback": 0,
+      "anchor_clusters": 0
+    }
+  },
+  "metrics": {},
+  "test_end": "2025-11-18T06:28:47.476061",
+  "summary": {
+    "activation": true,
+    "domain_progression": false,
+    "bridge_injection": false,
+    "consciousness_metrics": false,
+    "expansion_trajectory": false,
+    "referential_memory": true
+  }
+}

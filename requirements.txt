@@ -1,0 +1,22 @@
+# Reality Simulator Dependencies
+
+# Core Scientific Computing (REQUIRED)
+numpy>=1.21.0
+scipy>=1.7.0
+
+# Network/Graph Analysis (REQUIRED)
+networkx>=3.0
+
+# System Monitoring (REQUIRED)
+psutil>=5.8.0
+
+# Visualization (RECOMMENDED)
+matplotlib>=3.5.0   # For visualization plots and composite image generation
+
+# Optional: Enhanced Features
+# torch>=2.0.0        # For advanced neural computations
+# qutip>=4.7.0        # For quantum mechanics simulation
+
+# AI agents have been removed from this system
+# The simulator runs on pure evolution, network dynamics, and quantum physics
+
